@@ -1,7 +1,5 @@
-# API Portfolio Project
-This project demonstrates API coding best practices using Python and FastAPI.
+# SportsWorldCentral (SWC) Fantasy Football API Documentation
 
-This project was built from examples from the book 
- [Hands-On APIs For API and Data Science](https://handsonapibook.com/).
+Thanks for using teh SportsWorldCentral API. This is your one-stop shop for accessing data from our fantasy football website, www.sportsworldcentral.com.
 
- Modification.
+continued ...
